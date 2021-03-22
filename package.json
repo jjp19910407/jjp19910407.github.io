@@ -1,0 +1,15 @@
+{
+  "name": "docpro",
+  "version": "1.0.0",
+  "description": "williamJ blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "williamJ",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
